@@ -1,0 +1,25 @@
+header{
+    height:50px;
+    background-color: darkgrey;
+}
+
+.image{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+    margin: 30px 30px;
+}
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline-block;
+    float: left;
+    content:'';
+}
+
+.image-container.drag-over {
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
