@@ -34,4 +34,4 @@ Classes declared
 5. Bidders
 6. Rules
 
-There is some degree of implementation
+There is some degree of implementation. The file is under exercise 2/main.js
