@@ -1,3 +1,5 @@
+#Exercise 1 - Drag and drop
+
 #Constraints
 
 The JSON payload format (since not specified earlier) is as below (example):
@@ -20,3 +22,16 @@ The JSON payload format (since not specified earlier) is as below (example):
 #To Run
 
 Open index.html
+
+
+#Exercise 2 - Card game
+
+Classes declared
+1. Card
+2. Deck
+3. Player
+4. Game
+5. Bidders
+6. Rules
+
+There is some degree of implementation
