@@ -21,7 +21,7 @@ The JSON payload format (since not specified earlier) is as below (example):
 
 #To Run
 
-Open index.html
+Open exercise 1/ views/ index.html
 
 
 #Exercise 2 - Card game
